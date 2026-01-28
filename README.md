@@ -52,3 +52,13 @@ Analytical Thinking & Business Reasoning
 Relational Data Analysis
 
 Exploratory Data Analysis (EDA)
+
+**📎 Disclaimer**
+
+This project is intended for learning and demonstration purposes only. The dataset and analysis are part of a structured academic assignment and do not represent real-time business analytics at Target Corporation.
+
+**👤 Author**
+
+Dandugula Satya Anusritha
+
+Business Case Project – Scaler
